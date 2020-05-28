@@ -40,24 +40,42 @@ Following are the Channel_name to access them with the bot.
 
 CHANNELS LIST WITH NAMES: {
 
-    3rdguy
-    marisa
-    wyverein
-    yukinahime
-    edwinjk
-    vignette
-    satellizerx
-    furyproduction
-    furtherbeyondgaming
-    mg
-    justkirby
-    akayuki
-    keebster
-    milkssv
-    nubskate
-    honkaiglobal
-    honkaisea
-    whize
+3rdguy ->                  https://www.youtube.com/channel/UCdX9K1TQwZaoCWrYkG3Rk0Q
+
+marisa ->                  https://www.youtube.com/channel/UC0S7OwBRuCYyeZrM6dq9Ykg
+
+wyverein ->                https://www.youtube.com/channel/UURsi-eA7IzvTkU3tqKcz9nQ
+
+yukinahime ->              https://www.youtube.com/channel/UCo8ig5qW9ISJP_AnrVqYOww
+
+edwinjk ->                 https://www.youtube.com/channel/UUbXoYQp4Njc3dnyIsBaww6A
+
+vignette ->                https://www.youtube.com/channel/UU4NSYsfffEc6abYQS5afPRQ
+
+satellizerx ->             https://www.youtube.com/channel/UCKhLED79UBnoJLjAAcVj5nw
+
+furyproduction ->          https://www.youtube.com/channel/UUU4xhPQufy3Ar0km8514eKg
+
+furtherbeyondgaming ->     https://www.youtube.com/channel/UUltBd9gGKE6-ZkSuQ0jGntw
+
+mg ->                      https://www.youtube.com/channel/UUHmtPsuX6f7uavugk25kRTg
+
+justkirby ->               https://www.youtube.com/user/kkcomicproduction
+
+akayuki ->                 https://www.youtube.com/channel/UUxgSTa2iiO6heC-EnQDaqRg
+
+keebster ->                https://www.youtube.com/channel/UUbXY6vNP0JzAkCdrWgjwvag
+
+milkssv ->                 https://www.youtube.com/channel/UUF1k7LIejtEDvb-PmCPPXwg
+
+nubskate ->                https://www.youtube.com/channel/UUjnafxo93GIMAB9mQCRY2Hg
+
+honkaiglobal ->            https://www.youtube.com/channel/UUko6H6LokKM__B03i5_vBQQ
+
+honkaisea ->               https://www.youtube.com/channel/UU8O6WFO_0c51EB3FqAintyg
+
+whize ->                   https://www.youtube.com/channel/UC87RdGR6G0OrICOGVNqCaUQ
+
 }
 
 NOTE 2: Some Channels don't have community list so you won't get any results back.
