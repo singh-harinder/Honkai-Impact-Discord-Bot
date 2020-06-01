@@ -307,4 +307,4 @@ async def search_error(ctx, error):
             (the_number_of_results_you_want) = 0`
             """)
 
-client.run('NzEyMzg4Nzc1ODQxMzY2MDU2.XsQ1-A.depaQxwF4UrZXj9k02jJPLXxbrQ')
+client.run('Your Bot token goes here')
