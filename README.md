@@ -7,7 +7,13 @@ The Bot has following commands and features....
 
 NOTE: All commands are prefixed/begin with dot(.)
 
-1))      **.videos(command)**: You can search and retrieve videos from the youtube channels.
+1))      **.help(command)**: The help command. Will tell you the syntax and info about all the commands available.
+
+Format: .help
+
+
+
+2))      **.videos(command)**: You can search and retrieve videos from the youtube channels.
 
 Format:           (*.videos*)    (*channel_name*)     (*the_number_of_results_to_want*)
 
@@ -17,7 +23,7 @@ Example:      **.videos marisa 2** -> This command will search the Marisa Honkai
 
 
 
-2))     **.search(command)**: You can search and retrieve any videos from the mentioned channel.
+3))     **.search(command)**: You can search and retrieve any videos from the mentioned channel.
 
 Format:          (*.search*)     (*channel_name*)      (*the_number_of_results_you_want*) (*search_string*)
 
@@ -27,12 +33,21 @@ If you want all the videos matching the search_string then put (*the_number_of_r
 
 
 
-3))      **.community(command)**: You can retrieve the community posts from the channel. 
+4))      **.community(command)**: You can retrieve the community posts from the channel. 
 
 Format:            (*.community*)     (*channel_name*)        (*number_of_posts*)
 
 Example:           **.community marisa 2** -> This will retrieve and return the latest top 2 posts from the community page and return them to you.
 The maximum value supported for (*number_of_posts*) = 5
+
+You can also use .comm alias for this. Like , 	.comm marisa 1
+
+NOTE 2: Community posts are returned in the following format. 
+			
+			{ Post text }
+			{ Images in the Post }
+			{ Any links Embedded into the Post }
+
 
 
 
@@ -80,6 +95,6 @@ whize ->                   https://www.youtube.com/channel/UC87RdGR6G0OrICOGVNqC
 
 }
 
-NOTE 2: Some Channels don't have community list so you won't get any results back.
+NOTE 3: Some Channels don't have community list so you won't get any results back.
 
 If you encounter any problems with the Bot please mail them to 'kinggouken611@gmail.com'
