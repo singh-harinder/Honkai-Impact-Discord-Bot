@@ -1,5 +1,7 @@
 # Honkai-Impact-Discord-Bot
 
+Depracated: This no longer works due to the updations in the youtube API
+
 Link: https://discord.com/api/oauth2/authorize?client_id=712388775841366056&permissions=522304&scope=bot
 
 This is a bot created in discord.py related to the game Honkai Impact 3. 
